@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Like A Star",
+  "base_artist": "Corinne Bailey Rae",
+  "createdAt": "2026-02-28T07:21:54.974168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like a Star",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/01_Like_a_Star_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Love Is Like a Star",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/02_My_Love_Is_Like_a_Star_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Love Is Like A Star",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/03_My_Love_Is_Like_A_Star_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "She's Like A Star",
+      "artist": "Sugababes feat. Taio Cruz",
+      "has_synced": false,
+      "path": "select/04_She's_Like_A_Star_Sugababes_feat._Taio_Cruz.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She's Like a Star",
+      "artist": "Taio Cruz Sugababes",
+      "has_synced": false,
+      "path": "select/05_She's_Like_a_Star_Taio_Cruz_Sugababes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Like a Star",
+      "artist": "Laura Fygi",
+      "has_synced": true,
+      "path": "select/06_Like_a_Star_Laura_Fygi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Like a Star - Radio Edit",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/07_Like_a_Star_-_Radio_Edit_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Like a Star",
+      "artist": "Jane Monheit",
+      "has_synced": true,
+      "path": "select/08_Like_a_Star_Jane_Monheit.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like a Star",
+      "artist": "DJ Ötzi feat. The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/09_Like_a_Star_DJ_Ötzi_feat._The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like a Star",
+      "artist": "DJ Ötzi & The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/10_Like_a_Star_DJ_Ötzi_&_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Like a Star",
+      "artist": "Corinne Bailey Rae",
+      "has_synced": true,
+      "path": "select/11_Like_a_Star_Corinne_Bailey_Rae.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shine Like a Star",
+      "artist": "Berri",
+      "has_synced": false,
+      "path": "select/12_Shine_Like_a_Star_Berri.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Like A Star",
+      "artist": "Corinne Bailey Rae",
+      "has_synced": true,
+      "path": "select/13_Like_A_Star_Corinne_Bailey_Rae.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She's Like A Star",
+      "artist": "Taio Cruz",
+      "has_synced": true,
+      "path": "select/14_She's_Like_A_Star_Taio_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shes Like A Star",
+      "artist": "Taio Cruz",
+      "has_synced": true,
+      "path": "select/15_Shes_Like_A_Star_Taio_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Burns Like a Star",
+      "artist": "Stone Fury",
+      "has_synced": false,
+      "path": "select/16_Burns_Like_a_Star_Stone_Fury.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shine Like A Star",
+      "artist": "Xavier Naidoo",
+      "has_synced": true,
+      "path": "select/17_Shine_Like_A_Star_Xavier_Naidoo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Burn Like a Star",
+      "artist": "Rend Collective",
+      "has_synced": true,
+      "path": "select/18_Burn_Like_a_Star_Rend_Collective.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/19_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Do I Wanna Know? (triple j Like A Version)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/20_Do_I_Wanna_Know__(triple_j_Like_A_Version)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/21_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/22_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Feels Like a Party",
+      "artist": "Locash",
+      "has_synced": true,
+      "path": "select/23_Feels_Like_a_Party_Locash.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Heart Like A Wheel",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/24_Heart_Like_A_Wheel_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Heaven's Like a Hometown",
+      "artist": "Andrew Jannakos",
+      "has_synced": true,
+      "path": "select/25_Heaven's_Like_a_Hometown_Andrew_Jannakos.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "It Was Almost Like A Song",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/26_It_Was_Almost_Like_A_Song_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "It Was Almost Like A Song",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/27_It_Was_Almost_Like_A_Song_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Like A Lady",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/28_Like_A_Lady_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Like A Lady",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/29_Like_A_Lady_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Love Is Like a Butterfly",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/30_Love_Is_Like_a_Butterfly_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Man! I Feel Like A Woman!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/31_Man!_I_Feel_Like_A_Woman!_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Nobody Falls Like a Fool",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/32_Nobody_Falls_Like_a_Fool_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Like A Star",
+      "artist": "Corinne Bailey Rae",
+      "has_synced": false,
+      "path": "select/pl_01_Like_A_Star_Corinne_Bailey_Rae.txt"
+    }
+  ]
+}
